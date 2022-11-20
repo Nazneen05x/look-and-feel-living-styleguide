@@ -12,6 +12,9 @@
 
 ## 🗒️ Beschrijving
 <strong>Living Styleguide 🖌️:</strong>
+<ul>
+<li>Het doel van deze opdracht: is een Living Styleguide maken voor je opdrachtgever.</li>
+</ul>
 
 <strong>Opdrachtgever Vini Mini 🥜:</strong>
 <ul>
