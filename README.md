@@ -51,6 +51,9 @@ Lijst met gebruikte tools, technieken en communicatie middelen.
 
 Het gemaakte Living Styleguide, kun je bekijken op desktop en mobile (telefoon).
 
+![image](https://user-images.githubusercontent.com/112861261/202927546-117e4a6c-ad6e-432c-8e01-e5d98b90568e.png)
+
+
 ## 🌐 Bronnen
 
 <ul>
