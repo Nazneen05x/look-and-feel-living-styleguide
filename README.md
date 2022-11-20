@@ -14,6 +14,7 @@
 <strong>Living Styleguide 🖌️:</strong>
 <ul>
 <li>Het doel van deze opdracht: is een Living Styleguide maken voor je opdrachtgever.</li>
+<li> Lees meer in de wiki over de hele proces, van het Living styleguide: https://github.com/Nazneen05x/look-and-feel-living-styleguide/wiki</li>
 </ul>
 
 <strong>Opdrachtgever Vini Mini 🥜:</strong>
@@ -48,11 +49,13 @@ Lijst met gebruikte tools, technieken en communicatie middelen.
 
 ## 💻 Gebruik
 
+Het gemaakte Living Styleguide, kun je bekijken op desktop en mobile (telefoon).
+
 ## 🌐 Bronnen
 
 <ul>
 
-<li>https://miro.com/</li>
+<li>https://miro.com/app/board/uXjVPEccf3o=/</li>
 
 <li>https://vinimini.nl/</li>
 
